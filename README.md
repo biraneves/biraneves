@@ -2,18 +2,27 @@
 
 # Hello, I'm Bira Neves! 🖖 👨🏻‍💻
 
-I started programming in the '80s, diving into the technological evolution that honed my software development skills - a fundamental part of who I am. But that's not all; I am also passionate about biology 🧬 and teaching science 👨‍🔬. Merging these worlds has given me a unique edge in the field of education, where I've made a significant impact.
+I began programming back in the 1980s, experiencing firsthand the evolution of technology that shaped my skills as a software developer –
+an essential part of who I am. Alongside technology, I've always been passionate about science, particularly biology and physics, and about
+sharing knowledge. This multidisciplinary background gives me a unique perspective in problem-solving and system design.
 
-Currently, I'm working on my degree in Computer Science 🎓. In the meantime, I am dedicated to working on operations for an Australian fintech, introducing innovative ideas.
+Today, I work intensively with **Go** in Italy 🇮🇹, developing robust, high-performance backend solutions for enterprise environments. My
+work involves designing, implementing, and maintaining secure and scalable services – with a strong focus on clean architecture, performance,
+and maintainability.
 
-I'm also a strong supporter of open-source software 💾, sharing knowledge and promoting free speech 🗣️. I recognize the value in proprietary software too - everything has its own place!
+Academically, I'm completing a postgraduate degree in Backend Development with Go. I'm also the author of an upcoming book on Shell Scripting,
+where I aim to make Linux automation accessible and practical for developers and sysadmins alike.
 
-## A bit more about me:
+I am a strong advocate of open-source software , knowledge sharing, and free expression, while also recognizing that proprietary software has
+its rightful place in the ecosystem.
 
--   👀 I'm also interested in Data Science
--   🌱 I'm currently writing a comprehensive book on Microsoft Excel
--   📚 I'm a student at EBAC, specializing in Java Back-End Engineering
--   🎮 I love video games, although time is scarce... My favorite games are Minecraft and Valheim!
+**A bit more about me:**
+
+- 💻 Backend developer specialized in **Golang** and **Java**
+- 📚 Currently finishing my **Backend Development with Go** postgraduate program
+- ✍️ Writing a **comprehensive book on Shell Scripting**
+- 🎮 Passionate about video games – especially **Minecraft** and **The Legend of Zelda**
+- 🌍 Supporter of open knowledge, free software, and collaborative learning
 
 ## My favorite technologies
 
